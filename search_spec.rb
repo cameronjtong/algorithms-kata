@@ -1,4 +1,3 @@
-require "rspec"
 require_relative "search"
 
 RSpec.describe("search algorithms") do
